@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyLeavePeriode</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3bb98ec3-e89e-4548-affc-3ca3de54f19f</testCaseGuid>
+</TestCaseEntity>

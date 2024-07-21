@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyEmployeeOnLeaveToday</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>488f4472-ba9c-4a43-bc6c-c591fd2e0a29</testCaseGuid>
+</TestCaseEntity>

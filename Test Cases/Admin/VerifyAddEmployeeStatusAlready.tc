@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyAddEmployeeStatusAlready</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4cb0ab99-3bf0-411b-b61f-d8b5702d2339</testCaseGuid>
+</TestCaseEntity>

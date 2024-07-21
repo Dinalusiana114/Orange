@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Buzz Latest PostsTest 23 Saurav Patanka_9390c6</name>
+   <tag></tag>
+   <elementGuidId>2cf4fc90-bdb9-4ea0-bc84-0c91bd70075b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div[4]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Buzz Latest PostsTest 23 Saurav Patankar2024-02-07 09:36 PMTest text 31Test 23 S&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>aa103147-a93e-41ae-b0d1-7d6ec4b14626</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-sheet oxd-sheet--rounded oxd-sheet--white orangehrm-dashboard-widget</value>
+      <webElementGuid>b73016b4-bcc5-47a6-a157-66c0c34065a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Buzz Latest PostsTest 23 Saurav Patankar2024-02-07 09:36 PMTest text 31Test 23 Saurav Patankar2024-02-07 09:12 PMTest 23 Saurav Patankar2024-02-07 08:53 PMTest 23 Saurav Patankar2024-02-07 08:36 PMVoluptatibus eligendi tenetur.Test 23 Saurav Patankar2024-02-07 08:35 PM</value>
+      <webElementGuid>ac6d1c46-83f0-4efc-a003-0bcacd773170</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;oxd-grid-3 orangehrm-dashboard-grid&quot;]/div[@class=&quot;oxd-grid-item oxd-grid-item--gutters orangehrm-dashboard-widget&quot;]/div[@class=&quot;oxd-sheet oxd-sheet--rounded oxd-sheet--white orangehrm-dashboard-widget&quot;]</value>
+      <webElementGuid>4e5e0e2a-bb34-478f-9f7e-9e677661a02e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div[4]/div</value>
+      <webElementGuid>e06e6def-6892-4278-8489-147a60a8ee1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OrangeHRM, Inc'])[1]/preceding::div[45]</value>
+      <webElementGuid>e23007a3-d751-4ccc-aa26-f6da7ca95853</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div</value>
+      <webElementGuid>8c2ac38e-8f49-40a1-b559-ca9e8f434045</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Buzz Latest PostsTest 23 Saurav Patankar2024-02-07 09:36 PMTest text 31Test 23 Saurav Patankar2024-02-07 09:12 PMTest 23 Saurav Patankar2024-02-07 08:53 PMTest 23 Saurav Patankar2024-02-07 08:36 PMVoluptatibus eligendi tenetur.Test 23 Saurav Patankar2024-02-07 08:35 PM' or . = 'Buzz Latest PostsTest 23 Saurav Patankar2024-02-07 09:36 PMTest text 31Test 23 Saurav Patankar2024-02-07 09:12 PMTest 23 Saurav Patankar2024-02-07 08:53 PMTest 23 Saurav Patankar2024-02-07 08:36 PMVoluptatibus eligendi tenetur.Test 23 Saurav Patankar2024-02-07 08:35 PM')]</value>
+      <webElementGuid>985afc53-2ce9-4dbe-ae75-de5350009121</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

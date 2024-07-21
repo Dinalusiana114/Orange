@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Time at WorkPunched OutPunched Out Toda_e3fd16</name>
+   <tag></tag>
+   <elementGuidId>74c20b9a-98ad-48f0-90e6-83f933155e7b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.oxd-sheet.oxd-sheet--rounded.oxd-sheet--white.orangehrm-dashboard-widget</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Time at WorkPunched OutPunched Out: Today at 07:10 PM (GMT 5.5)0h 28m TodayThis &quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5070d510-c493-4648-922f-2568010f7d25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-sheet oxd-sheet--rounded oxd-sheet--white orangehrm-dashboard-widget</value>
+      <webElementGuid>85d6ad62-166a-44df-aafe-368f1df82e1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Time at WorkPunched OutPunched Out: Today at 07:10 PM (GMT 5.5)0h 28m TodayThis WeekJul 01 - Jul 070h 28m </value>
+      <webElementGuid>aecc47f0-5062-429b-b9a4-ec799bd1a1bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;oxd-grid-3 orangehrm-dashboard-grid&quot;]/div[@class=&quot;oxd-grid-item oxd-grid-item--gutters orangehrm-dashboard-widget&quot;]/div[@class=&quot;oxd-sheet oxd-sheet--rounded oxd-sheet--white orangehrm-dashboard-widget&quot;]</value>
+      <webElementGuid>7ea1a310-6d6e-4c4b-b67b-147527dc0d3c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/div</value>
+      <webElementGuid>9353cd4a-62b7-4166-a3d3-fb2903bcfdc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OrangeHRM, Inc'])[1]/preceding::div[85]</value>
+      <webElementGuid>1c526b8b-696d-435b-982b-4f43fe9fb682</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div</value>
+      <webElementGuid>c5b5db76-8004-4b0b-bdae-5c90e23c70de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Time at WorkPunched OutPunched Out: Today at 07:10 PM (GMT 5.5)0h 28m TodayThis WeekJul 01 - Jul 070h 28m ' or . = 'Time at WorkPunched OutPunched Out: Today at 07:10 PM (GMT 5.5)0h 28m TodayThis WeekJul 01 - Jul 070h 28m ')]</value>
+      <webElementGuid>69a324bf-9792-4c81-9887-51727c3d2184</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyDeleteJobCategories</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3673ed58-6806-4f05-8671-01cc00bbbaab</testCaseGuid>
+</TestCaseEntity>

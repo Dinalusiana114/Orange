@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyLeaveType</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>58de88c7-14b5-4f22-bf5e-7c2a1560cdcc</testCaseGuid>
+</TestCaseEntity>

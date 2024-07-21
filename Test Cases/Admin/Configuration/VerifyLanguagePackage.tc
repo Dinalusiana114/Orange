@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyLanguagePackage</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>161e5c2e-42d6-4a99-b59a-70c9649415ee</testCaseGuid>
+</TestCaseEntity>

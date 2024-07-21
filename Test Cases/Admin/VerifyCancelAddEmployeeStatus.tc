@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyCancelAddEmployeeStatus</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d57fc14b-e9bf-4a32-a717-9dd690ab46d3</testCaseGuid>
+</TestCaseEntity>

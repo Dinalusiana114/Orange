@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyQuickLaunch</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>38cb3278-3cee-45ab-a32b-0a095b7fad2c</testCaseGuid>
+</TestCaseEntity>

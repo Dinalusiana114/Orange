@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyAddSocialMediaAuth</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>12932ed6-e4b2-459a-b91d-5e40d2c4c0bc</testCaseGuid>
+</TestCaseEntity>

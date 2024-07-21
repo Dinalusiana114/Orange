@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyEmployeeEntitlement</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>569c1eab-6139-4dd2-bbf0-e93e0c309697</testCaseGuid>
+</TestCaseEntity>

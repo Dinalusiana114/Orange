@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Leave Taken (Days)</name>
+   <tag></tag>
+   <elementGuidId>2878830e-4008-4d40-b63a-e0dc7f9e0f8e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div[2]/div/revo-grid/div/div/revogr-viewport-scroll[2]/div/div/revogr-header/div[2]/div[4]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Leave Taken (Days)&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>59b0e2ae-c453-4df4-9336-e4a4de15b4ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>header-content</value>
+      <webElementGuid>ef0ea215-34b2-4252-8bfc-7cafae1f0449</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Leave Taken (Days)</value>
+      <webElementGuid>fff6c2a6-83df-49b9-91aa-60615dd7711f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-paper-container&quot;]/div[@class=&quot;oxd-report-table --frame&quot;]/revo-grid[1]/div[@class=&quot;main-viewport&quot;]/div[@class=&quot;viewports&quot;]/revogr-viewport-scroll[@class=&quot;rgCol&quot;]/div[@class=&quot;inner-content-table&quot;]/div[@class=&quot;header-wrapper&quot;]/revogr-header[1]/div[@class=&quot;header-rgRow actual-rgRow&quot;]/div[@class=&quot;rgHeaderCell&quot;]/div[@class=&quot;header-content&quot;]</value>
+      <webElementGuid>88c19d36-dbce-4af5-929d-71136ed21fde</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div[2]/div/revo-grid/div/div/revogr-viewport-scroll[2]/div/div/revogr-header/div[2]/div[4]/div</value>
+      <webElementGuid>1703e4ec-3893-47c4-b68a-dd2d0c682203</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Leave Scheduled (Days)'])[1]/following::div[3]</value>
+      <webElementGuid>cbbda2ba-fa3c-476e-9d76-79b9675dea9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Leave Pending Approval (Days)'])[1]/following::div[6]</value>
+      <webElementGuid>912d1f02-0be9-4e60-abc7-b47c4f1a9b95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Leave Balance (Days)'])[1]/preceding::div[2]</value>
+      <webElementGuid>2edaf467-4c1a-4192-96f4-eacb8d4fef55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OrangeHRM, Inc'])[1]/preceding::div[80]</value>
+      <webElementGuid>fec0d251-a2e7-40f4-b2f4-4d0c39fe4fdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Leave Taken (Days)']/parent::*</value>
+      <webElementGuid>24d67260-73cc-4b2c-97ce-8d91d3afd385</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[4]/div</value>
+      <webElementGuid>83a5996d-aee0-4e0a-8cc4-67c06a388ae3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Leave Taken (Days)' or . = 'Leave Taken (Days)')]</value>
+      <webElementGuid>8a91068b-072d-4004-b8e7-671be65eef1d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

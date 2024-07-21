@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyJobCategories</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dab30db6-f3a0-4e1a-a54e-35adc8c429a4</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifySearchAdmin</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f00e72e7-bc9f-41ba-960c-980f7fc03b03</testCaseGuid>
+</TestCaseEntity>

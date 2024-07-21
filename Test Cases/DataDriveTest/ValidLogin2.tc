@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ValidLogin2</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3688b346-49c8-48db-84a4-0efacacae56e</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>69d3fad2-9746-497e-bdae-93e0fccc66fe</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Login</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b24505d9-938e-484b-b08b-961811213cdf</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7469431a-c1d7-4bad-988b-03ffb4585371</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Login')</defaultValue>
+      <description></description>
+      <id>b24505d9-938e-484b-b08b-961811213cdf</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Login')</defaultValue>
+      <description></description>
+      <id>7469431a-c1d7-4bad-988b-03ffb4585371</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

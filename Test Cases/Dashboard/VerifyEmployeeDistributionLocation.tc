@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyEmployeeDistributionLocation</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>91bc018a-33ff-4d6b-ae80-574eb1ec5785</testCaseGuid>
+</TestCaseEntity>

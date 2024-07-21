@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyDeleteWorkShift</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8103c708-d4ab-49cc-b7be-962bad77cb4a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Leave Type</name>
+   <tag></tag>
+   <elementGuidId>31b1d7fb-6e0a-42a6-b8c5-559be60b30e8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.header-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div[2]/div/revo-grid/div/div/revogr-viewport-scroll/div/div/revogr-header/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Leave Type&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a4caf6ce-e215-407b-b739-1eff3c657218</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>header-content</value>
+      <webElementGuid>672f9ee5-fbb1-4f39-8bdb-249860ad0d51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Leave Type</value>
+      <webElementGuid>391e945a-47e6-4c61-8dac-beeed72cbb9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-paper-container&quot;]/div[@class=&quot;oxd-report-table --frame&quot;]/revo-grid[1]/div[@class=&quot;main-viewport&quot;]/div[@class=&quot;viewports&quot;]/revogr-viewport-scroll[@class=&quot;colPinStart&quot;]/div[@class=&quot;inner-content-table&quot;]/div[@class=&quot;header-wrapper&quot;]/revogr-header[1]/div[@class=&quot;header-rgRow actual-rgRow&quot;]/div[@class=&quot;rgHeaderCell&quot;]/div[@class=&quot;header-content&quot;]</value>
+      <webElementGuid>3be6fe40-760f-4706-a1a6-55bf298eb874</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div[2]/div/revo-grid/div/div/revogr-viewport-scroll/div/div/revogr-header/div[2]/div/div</value>
+      <webElementGuid>006d5787-90e6-4270-a553-9343edcf32a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CAN - Bereavement'])[1]/preceding::div[2]</value>
+      <webElementGuid>eb1be4ee-6fc0-48ff-ade1-6bb1115eb5e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CAN - FMLA'])[1]/preceding::div[4]</value>
+      <webElementGuid>c6454676-f373-4174-95ba-bd701ebfcacd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Leave Type']/parent::*</value>
+      <webElementGuid>06255d81-82ea-4b2e-8310-487510aff351</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//revogr-header/div[2]/div/div</value>
+      <webElementGuid>9aee08c1-5031-4aa2-866d-fda28f23a5f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Leave Type' or . = 'Leave Type')]</value>
+      <webElementGuid>7038c18e-868c-4bb2-bd19-1ca5e5bab1d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
